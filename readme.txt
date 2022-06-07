@@ -6,3 +6,5 @@ dependencias necesarias
 *pip install pandas 
 *pip install openpyxl 
 *pip install mysql-connector-python 
+
+Se requere configuracion para la conexion en la bse de datos en el archivo src/conexion_mysql.py
